@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience the unparalleled taste and eco-friendly benefits of our innovative banana products.",
+        "title": "Green: The Future of Freshness"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Experience the unparalleled taste and eco-friendly benefits of our innovative banana products.",
+        "title": "Green: The Future of Freshness"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Experience the unparalleled taste and eco-friendly benefits of our innovative banana products.",
+        "title": "Green: The Future of Freshness"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience the unparalleled taste and eco-friendly benefits of our innovative banana products.",
+        "title": "Green: The Future of Freshness"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience the unparalleled taste and eco-friendly benefits of our innovative banana products.",
+        "title": "Green: The Future of Freshness"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the unparalleled taste and eco-friendly benefits of our innovative banana products.",
+        "title": "Green: The Future of Freshness"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience the unparalleled taste and eco-friendly benefits of our innovative banana products.",
+        "title": "Green: The Future of Freshness"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience the unparalleled taste and eco-friendly benefits of our innovative banana products.",
+        "title": "Green: The Future of Freshness"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the unparalleled taste and eco-friendly benefits of our innovative banana products.",
+        "title": "Green: The Future of Freshness"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Green: The Future of Freshness",
+  "subtitle": "Experience the unparalleled taste and eco-friendly benefits of our innovative banana products."
+}
